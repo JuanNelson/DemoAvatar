@@ -1,0 +1,16 @@
+
+
+
+#v-pills-tab  a{
+	cursor: pointer;
+}
+
+
+#main_card li:hover {
+	color: blue;
+}
+
+.blockPage{
+	border: none !important;
+    background-color: unset !important;
+}
